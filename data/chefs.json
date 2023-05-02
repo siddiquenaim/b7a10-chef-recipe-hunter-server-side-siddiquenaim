@@ -1,6 +1,7 @@
 [
   {
     "chefId": 1,
+    "chefBio": "Chef Ayşe brings a modern twist to traditional Turkish recipes. Her innovative approach and attention to detail have earned her a reputation for creating visually stunning and delicious dishes. Her culinary creations beautifully blend traditional Turkish flavors with contemporary culinary techniques.",
     "chefName": "Ayşe Nur",
     "chefPic": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "yearsOfExperience": 12,
@@ -9,6 +10,7 @@
   },
   {
     "chefId": 2,
+    "chefBio": "As a seasoned chef with a passion for regional Turkish cuisine, Chef Mehmet is known for his expertise in preparing dishes from various parts of Turkey. His recipes reflect the diverse flavors and culinary traditions found in different regions, from the spicy delights of Gaziantep to the delicate flavors of the Aegean.",
     "chefName": "Mehmet Yılmaz",
     "chefPic": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 8,
@@ -17,6 +19,7 @@
   },
   {
     "chefId": 3,
+    "chefBio": "With a focus on healthy and nutritious Turkish cuisine, Chef Demir specializes in creating wholesome recipes without compromising on taste. Her dishes are packed with vibrant flavors, fresh ingredients, and a touch of her own creative flair. Chef Demir's recipes are perfect for those seeking a balance between flavor and nourishment.",
     "chefName": "Elif Demir",
     "chefPic": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 10,
@@ -25,6 +28,7 @@
   },
   {
     "chefId": 4,
+    "chefBio": "With over 15 years of culinary experience, Chef Ahmet is a master of Turkish cuisine. His recipes showcase the authentic flavors and techniques passed down through generations. From hearty kebabs to savory mezes, Chef Ahmet's creations are a true celebration of Turkish culinary traditions.",
     "chefName": "Ahmet Arslan",
     "chefPic": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 6,
@@ -33,6 +37,7 @@
   },
   {
     "chefId": 5,
+    "chefBio": "Chef Zeynep is a master of traditional Turkish street food. His recipes capture the essence of bustling Turkish markets and the vibrant street food culture. From mouthwatering döner kebabs to crispy simit bread, Chef Zeynep's creations will transport you to the lively streets of Istanbul with every bite.",
     "chefName": "Zeynep Kara",
     "chefPic": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "yearsOfExperience": 9,
@@ -41,6 +46,7 @@
   },
   {
     "chefId": 6,
+    "chefBio": "With a focus on vegetarian and vegan Turkish cuisine, Chef Akgün crafts plant-based recipes that are full of flavor and creativity. Her dishes showcase the abundance of fresh vegetables, herbs, and spices found in Turkish cooking. Chef Akgün's recipes cater to those looking for meatless options without compromising on taste.",
     "chefName": "Can Akgün",
     "chefPic": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 14,
@@ -49,6 +55,7 @@
   },
   {
     "chefId": 7,
+    "chefBio": " Chef Sahin is a specialist in Ottoman cuisine, bringing the rich history and flavors of the Ottoman Empire to life through his recipes. Her dishes are a fusion of culinary traditions from the Middle East, Mediterranean, and Central Asia, creating a truly unique and indulgent dining experience.",
     "chefName": "Ayhan Şahin",
     "chefPic": "https://images.unsplash.com/photo-1565608087341-404b25492fee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 11,
@@ -57,6 +64,7 @@
   },
   {
     "chefId": 8,
+    "chefBio": "Chef Selin's passion lies in creating delectable Turkish desserts and sweets. From baklava to Turkish delight, Chef Selin's expertise in pastry and confectionery delights the taste buds with every bite. Her recipes beautifully capture the sweetness and elegance of Turkish dessert traditions.",
     "chefName": "Selin Uzun",
     "chefPic": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 7,
