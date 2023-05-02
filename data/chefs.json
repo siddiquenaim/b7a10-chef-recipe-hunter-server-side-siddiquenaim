@@ -2,7 +2,7 @@
   {
     "chefId": 1,
     "chefName": "Ayşe Nur",
-    "chefPic": "chef1.jpg",
+    "chefPic": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "yearsOfExperience": 12,
     "numRecipes": 58,
     "totalLikes": 1325
@@ -10,7 +10,7 @@
   {
     "chefId": 2,
     "chefName": "Mehmet Yılmaz",
-    "chefPic": "chef2.jpg",
+    "chefPic": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 8,
     "numRecipes": 45,
     "totalLikes": 980
@@ -18,7 +18,7 @@
   {
     "chefId": 3,
     "chefName": "Elif Demir",
-    "chefPic": "chef3.jpg",
+    "chefPic": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 10,
     "numRecipes": 62,
     "totalLikes": 1472
@@ -26,7 +26,7 @@
   {
     "chefId": 4,
     "chefName": "Ahmet Arslan",
-    "chefPic": "chef4.jpg",
+    "chefPic": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 6,
     "numRecipes": 36,
     "totalLikes": 765
@@ -34,7 +34,7 @@
   {
     "chefId": 5,
     "chefName": "Zeynep Kara",
-    "chefPic": "chef5.jpg",
+    "chefPic": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "yearsOfExperience": 9,
     "numRecipes": 50,
     "totalLikes": 1123
@@ -42,7 +42,7 @@
   {
     "chefId": 6,
     "chefName": "Can Akgün",
-    "chefPic": "chef6.jpg",
+    "chefPic": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 14,
     "numRecipes": 72,
     "totalLikes": 1986
@@ -50,7 +50,7 @@
   {
     "chefId": 7,
     "chefName": "Ayhan Şahin",
-    "chefPic": "chef7.jpg",
+    "chefPic": "https://images.unsplash.com/photo-1565608087341-404b25492fee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 11,
     "numRecipes": 65,
     "totalLikes": 1654
@@ -58,7 +58,7 @@
   {
     "chefId": 8,
     "chefName": "Selin Uzun",
-    "chefPic": "chef8.jpg",
+    "chefPic": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 7,
     "numRecipes": 42,
     "totalLikes": 932
