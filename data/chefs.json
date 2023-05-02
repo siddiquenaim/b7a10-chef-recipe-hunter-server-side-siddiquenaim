@@ -5,7 +5,7 @@
     "chefName": "Ayşe Nur",
     "chefPic": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "yearsOfExperience": 12,
-    "numRecipes": 58,
+    "numRecipes": 6,
     "totalLikes": 1325
   },
   {
@@ -13,7 +13,7 @@
     "chefBio": "As a seasoned chef with a passion for regional Turkish cuisine, Chef Mehmet is known for his expertise in preparing dishes from various parts of Turkey. His recipes reflect the diverse flavors and culinary traditions found in different regions, from the spicy delights of Gaziantep to the delicate flavors of the Aegean.",
     "chefName": "Mehmet Yılmaz",
     "chefPic": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-    "yearsOfExperience": 8,
+    "yearsOfExperience": 4,
     "numRecipes": 45,
     "totalLikes": 980
   },
@@ -23,7 +23,7 @@
     "chefName": "Elif Demir",
     "chefPic": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 10,
-    "numRecipes": 62,
+    "numRecipes": 3,
     "totalLikes": 1472
   },
   {
@@ -32,7 +32,7 @@
     "chefName": "Ahmet Arslan",
     "chefPic": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 6,
-    "numRecipes": 36,
+    "numRecipes": 3,
     "totalLikes": 765
   },
   {
@@ -41,7 +41,7 @@
     "chefName": "Zeynep Kara",
     "chefPic": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "yearsOfExperience": 9,
-    "numRecipes": 50,
+    "numRecipes": 4,
     "totalLikes": 1123
   },
   {
@@ -50,7 +50,7 @@
     "chefName": "Can Akgün",
     "chefPic": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 14,
-    "numRecipes": 72,
+    "numRecipes": 3,
     "totalLikes": 1986
   },
   {
@@ -59,7 +59,7 @@
     "chefName": "Ayhan Şahin",
     "chefPic": "https://images.unsplash.com/photo-1565608087341-404b25492fee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 11,
-    "numRecipes": 65,
+    "numRecipes": 3,
     "totalLikes": 1654
   },
   {
@@ -68,7 +68,7 @@
     "chefName": "Selin Uzun",
     "chefPic": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "yearsOfExperience": 7,
-    "numRecipes": 42,
+    "numRecipes": 3,
     "totalLikes": 932
   }
 ]
