@@ -8,6 +8,7 @@ app.use(cors());
 const chefs = require("./data/chefs.json");
 const recipes = require("./data/recipes.json");
 const reviews = require("./data/reviews.json");
+const faq = require("./data/faq.json");
 
 app.get("/", (req, res) => {
   res.send("recipes are coming");
@@ -31,6 +32,10 @@ app.get("/recipes/:id", (req, res) => {
 
 app.get("/reviews", (req, res) => {
   res.send(reviews);
+});
+
+app.get("/faq", (req, res) => {
+  res.send(faq);
 });
 
 app.listen(port, () => {
