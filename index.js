@@ -7,6 +7,7 @@ app.use(cors());
 
 const chefs = require("./data/chefs.json");
 const recipes = require("./data/recipes.json");
+const reviews = require("./data/reviews.json");
 
 app.get("/", (req, res) => {
   res.send("recipes are coming");
@@ -27,6 +28,10 @@ app.get("/recipes/:id", (req, res) => {
   console.log(id);
   const chefRecipes = recipes.filter((recipe) => recipe.chefId == id);
   res.send(chefRecipes);
+});
+
+app.get("/reviews", (req, res) => {
+  res.send(reviews);
 });
 
 app.listen(port, () => {

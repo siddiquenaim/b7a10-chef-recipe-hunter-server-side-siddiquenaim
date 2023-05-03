@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "img": "https://images.pexels.com/photos/5384445/pexels-photo-5384445.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "occupation": "Food Enthusiast",
+    "testimonial": "I absolutely love TasteTurkish! The recipes are authentic and easy to follow. Thanks to the chefs, I can now enjoy my favorite Turkish dishes right at home. Highly recommended!"
+  },
+  {
+    "id": 2,
+    "name": "Emily Johnson",
+    "img": "https://images.pexels.com/photos/5393594/pexels-photo-5393594.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "occupation": "Home Cook",
+    "testimonial": "TasteTurkish is my go-to website for Turkish recipes. The variety of dishes is impressive, and the step-by-step instructions make it easy for me to recreate them. "
+  },
+  {
+    "id": 3,
+    "name": "Sarah Thompson",
+    "img": "https://images.pexels.com/photos/6976943/pexels-photo-6976943.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "occupation": "Food Blogger",
+    "testimonial": "As a food blogger, I'm always on the lookout for unique recipes. TasteTurkish never disappoints! The chefs' expertise shines through in every recipe. "
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "img": "https://images.pexels.com/photos/5490276/pexels-photo-5490276.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "occupation": "Adventurous Eater",
+    "testimonial": "TasteTurkish has broadened my culinary horizons. The recipes introduce me to new and exciting flavors. The chefs' passion for Turkish cuisine is evident, and it's contagious! "
+  }
+]
